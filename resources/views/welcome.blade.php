@@ -85,8 +85,8 @@
                 </div>
 
                 <div class="links">
-                    <!-- <a href="https://laravel.com/docs">Docs</a> -->
-                    <!-- <a href="https://github.com/laravel/laravel">GitHub</a> -->
+                    <a href="https://keluarberapa.herokuapp.com/docs">Docs</a>
+                    <a href="https://github.com/abdurrahmanjaisy/keluarBerapa-api">GitHub</a>
                 </div>
             </div>
         </div>
